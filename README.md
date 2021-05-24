@@ -3,7 +3,6 @@ What Is This?
 This is a simple Selenium-Python Bot intended to accept all the pending linkedin connections.
 
 How To Use This
-Clone the repository git clone https://github.com/SocioDroid/devsnest.git or download the zip.
 Navigate to this project
 Run pip3 install -r requirements.txt to install dependencies
 Run export LINKEDIN_EMAIL="{you linkedin email}"&& export LINKEDIN_PASSWORD="{your linkedin password}"
